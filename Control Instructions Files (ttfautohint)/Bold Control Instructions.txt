@@ -1,0 +1,176 @@
+dollar right 19
+dollar left 51
+dollar touch 27, 31-33 yshift 1 @ 14-15, 21, 24-26, 35-36, 45-48
+dollar touch 27, 31-33 yshift -1 @ 27, 37-38, 40, 49
+dollar touch 8-10 yshift 0.5 @ 14-15
+dollar touch 52-53 yshift -1 @ 12-15, 20, 27, 32
+dollar touch 20-21 yshift 1 @ 14-15, 21, 46
+
+exclam touch 0-1 yshift 1 @ 12-13, 26, 28-29, 33-34, 39-40
+question touch 25-26 yshift -1 @ 49-51
+
+percent touch 47-49 yshift -1 @ 10-11, 27-29, 32-34, 37-40, 43-53
+percent touch 68-70 yshift -1 @ 10-11, 27-29, 32-34, 37-40, 43-53
+#^rechtsonder kleiner maken
+percent touch 60-62 yshift 1 @ 18-21
+percent touch 31-33 yshift -1 @ 18-21
+
+ampersand touch 70-72 yshift -0.25 @ 13, 15
+
+a touch 40-42, 61-63 yshift -0.25 @ 33-36
+a touch 40-42, 61-63 yshift -0.75 @ 26
+a touch 40-42, 61-63 yshift -0.5 @ 14-15, 45-48
+a touch 40-42, 61-63 yshift -0.12 @ 24-25, 41-44, 52-53
+a touch 40-42, 61-63 yshift 0.25 @ 16-17
+a touch 64-65 yshift 0.25 @ 22
+a touch 51-53 yshift -1 @ 26-27, 37-42, 49-53
+a touch 14-16 yshift -1 @ 26-27, 49-53
+a touch 14-16 yshift 1 @ 20-21, 33-36
+
+b touch 35-37 yshift 0.25 @ 14-15, 24-25, 33-34
+b touch 35-37 yshift 0.37 @ 45-46
+b touch 35-37 yshift 0.5 @ 14, 35-36, 47-48
+b touch 35-37 yshift 0.75 @ 26
+b touch 35-37 yshift 0.12 @ 22-24, 32, 42-44
+b touch 35-37 yshift -0.12 @ 37-38
+b touch 35-37 yshift -0.25 @ 16-17, 28-29, 49
+b touch 35-37 yshift -0.5 @ 27
+
+#c touch 32-34, 36 yshift 0.5 @ 
+
+d touch 12-14 yshift -0.12 @ 24-25, 35-36
+d touch 12-14 yshift -0.25 @ 14-15, 26, 47-48
+d touch 12-14 yshift 0.25 @ 16-17, 28-30
+d touch 12-14 yshift 0.12 @ 18-19, 41-42
+d touch 12-14 yshift 0.5 @ 27, 37-40, 49-53
+
+e touch 28-31 yshift -0.25 @ 50-52
+e touch 28-34 yshift -0.37 @ 14-15
+e touch 4-30 xshift 1 @ 14-15
+e touch 28-34 yshift 0.75 @ 27
+e touch 28-31 yshift -0.5 @ 33-36, 42-48
+e touch 28-34 yshift -0.12 @ 10-13, 24-26
+e touch 28-34 yshift 0.25 @ 16-17
+e touch 28-33 yshift 0.12 @ 28-30
+e touch 34 yshift 0.25 @ 22, 28-30
+e touch 32-34 yshift 0.12 @ 33-36, 42-48, 50-52
+e touch 23-24 yshift -1 @ 33-34, 37-38, 42
+e touch 35, 45 yshift 1 @ 20-21, 35-36, 39-40
+
+f touch 8-18 yshift -1 @ 29, 32, 39-40, 43-44, 50-51
+
+g touch 25, 53-56, 89-91 yshift -1 @ 12-13, 23, 28-29
+
+h touch 4-6 yshift 0.25 @ 14-15, 22, 24-25, 33-34
+h touch 4-6 yshift -0.25 @ 27
+h touch 4-6 yshift 0.5 @ 26, 35-36, 45-48
+h touch 4-6 yshift 0.12 @ 32, 41-44
+
+j touch 0-1, 12-13 yshift 1 @ 50-53
+
+m touch 29-31, 43-45 yshift 0.25 @ 14-15, 47-48
+m touch 29-31, 43-45 yshift -0.25 @ 28-29, 49-53
+m touch 29-31, 43-45 yshift 0.12 @ 24-26, 35-36
+m touch 29-31, 43-45 yshift -0.12 @ 16-18, 30-31, 41-42
+m touch 29-31, 43-45 yshift -0.5 @ 27, 37-40
+
+n touch 19-21 yshift 0.25 @ 14-15, 47-48
+n touch 19-21 yshift -0.25 @ 28-29, 49-53
+n touch 19-21 yshift 0.12 @ 24-26, 35-36
+n touch 19-21 yshift -0.12 @ 16-18, 30-31, 41-42
+n touch 19-21 yshift -0.5 @ 27, 37-40
+
+p touch 12-14 yshift 0.25 @ 15, 24-26, 47-48
+p touch 12-14 yshift 0.5 @ 14
+p touch 12-14 yshift -0.25 @ 16-17, 28-31
+p touch 12-14 yshift -0.12 @ 18, 29, 41-42
+p touch 12-14 yshift 0.12 @ 35-36, 45
+p touch 12-14 yshift -0.5 @ 27, 37-40, 49-53
+
+q touch 33-35 yshift -0.25 @ 14-15, 24-25, 33-34, 45
+q touch 33-35 yshift -0.5 @ 14-15, 35-36, 46-48
+q touch 33-35 yshift -0.75 @ 26
+q touch 33-35 yshift -0.12 @ 32, 41-45
+q touch 33-35 yshift 0.12 @ 16-18
+q touch 33-35 yshift 0.25 @ 27, 37-38
+
+r touch 16-20 yshift -0.5 @ 16-19
+
+s touch 43-45 yshift 0.5 @ 16-17, 26-27
+
+t touch 19-22 yshift -0.25 @ 22, 24-25, 33-34
+t touch 19-22 yshift 0.25 @ 16-17, 27, 37-38
+t touch 19-22 yshift -0.37 @ 14-15
+t touch 19-22 yshift -0.5 @ 26, 35-36, 45-46
+t touch 19-22 yshift -0.75 @ 47-48
+t touch 19-22 yshift -0.12 @ 12-13, 42-44
+
+u touch 6-8 yshift -0.25 @ 14-15, 47-48
+u touch 6-8 yshift -0.75 @ 26
+u touch 6-8 yshift -0.12 @ 24-25, 32, 35-36, 45-46
+u touch 6-8 yshift 0.12 @ 18, 41-42
+u touch 6-8 yshift 0.25 @ 16-17, 27-29, 37-40, 49-53
+
+#v touch 2-5 yshift -0.5 @ 10-13
+#w touch 15-18 yshift 0.5 @ 14-15
+#w touch 1-4, 7-10 yshift —0.5 @ 10-13
+#y touch 2-5 yshift -0.5 @ 10-13
+
+E touch 5-8 yshift -1 @ 23
+F touch 5-8 yshift -1 @ 23
+B touch 0-1, 22, 33-35, 36, 46 yshift -1 @ 23
+H touch 3-4, 9-10 yshift -1 @ 23
+M touch 11-14, 17-20 yshift 1 @ 10-11
+M touch 11-14, 17-20 yshift 0.5 @ 12-17, 19-22
+C touch 34-40 yshift -0.75 @ 26, 47, 48
+C touch 1 yshift -0.25 @ 26, 47, 48
+S touch 39-41 yshift 0.25 @ 17, 27-29, 37-40
+S touch 39-41 yshift 0.5 @ 16
+one touch 1-5 yshift 1 @ 14, 18-22, 30
+five touch 6-7 yshift 0.5 @ 17, 22-23, 37-38, 47-48
+six touch 0, 47-51 yshift 0.5 @ 14-15, 26
+six touch 0-5 yshift -0.5 @ 12-13
+six touch 2-4 yshift -0.25 @ 12-13, 18-19, 50-51
+six touch 51 yshift 0.5 @ 26, 47, 52-53
+nine touch 47-51 yshift -0.75 @ 14-15, 26
+eight touch 67-70 yshift -0.25 @ 14-15
+
+two touch 9-11, 15 yshift 0.5 @ 14-15, 24-26, 35-36, 45-46
+two touch 9-11, 15 yshift -0.5 @ 16-17, 27-29, 37-38, 49
+three touch 39-41, 45 yshift 0.5 @ 14-15, 24-26, 35-36, 45-46
+three touch 39-41, 45 yshift -0.5 @ 16-17, 27-29, 37-40, 47-49
+three touch 39-41, 45 yshift -0.12 @ 38
+
+#stems shorter
+#b touch 0-1 yshift -1 @ 22-23, 26-27
+#d touch 17-18 yshift -1 @ 22-23, 26-27
+#h touch 11-12 yshift -1 @ 22-23, 26-27
+#i touch 4-5, 13-15, 23 yshift -1 @ 22-23, 26-27
+#j touch 14-15, 23-25, 33 yshift -1 @ 22-23, 26-27
+#k touch 0-1 yshift -1 @ 22-23, 26-27
+#l touch 0-1 yshift -1 @ 22-23, 26-27
+
+#stems taller
+b touch 0-1 yshift 1 @ 30-31, 33-34, 37-38, 41-42, 45-46, 49, 52-53
+d touch 17-18 yshift 1 @ 30-31, 33-34, 37-38, 41-42, 45-46, 49, 52-53
+h touch 11-12 yshift 1 @ 30-31, 33-34, 37-38, 41-42, 45-46, 49, 52-53
+i touch 4-5, 13-15, 23 yshift 1 @ 30-31, 33-34, 37-38, 41-42, 45-46, 49, 52-53
+j touch 14-15, 23-25, 33 yshift 1 @ 30-31, 33-34, 37-38, 41-42, 45-46, 49, 52-53
+k touch 0-1 yshift 1 @ 30-31, 33-34, 37-38, 41-42, 45-46, 49, 52-53
+l touch 0-1 yshift 1 @ 30-31, 33-34, 37-38, 41-42, 45-46, 49, 52-53
+
+#Joints thicker
+#a touch 0-1 yshift -0.5 @ 22-53
+#b touch 2-3 yshift 0.5 @ 22-53
+#d touch 21-22 yshift -0.5 @ 22-53
+#h touch 13-14 yshift 0.5 @ 22-53
+#m touch 2-3 yshift 0.5 @ 22-53
+#n touch 2-3 yshift 0.5 @ 22-53
+#p touch 17-18 yshift 0.5 @ 22-53
+#q touch 7-8 yshift -0.5 @ 22-53
+#u touch 17-18 yshift -0.5 @ 22-53
+
+#https://www.browserstack.com/screenshots/4802cd4e0c738b9412f080ed7068ffcbfda148d3
+
+
+
