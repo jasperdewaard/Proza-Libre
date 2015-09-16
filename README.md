@@ -6,5 +6,7 @@ It's made to render exceptionally well on screens across different operating sys
 Proza Libre was made with:
 
 ttfautohint
+
 browserstack.com/screenshots
+
 Fontlab Studio V
