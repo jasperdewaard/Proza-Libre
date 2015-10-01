@@ -1,3 +1,5 @@
+#Fix @!
+
 dollar right 19
 dollar left 51
 dollar touch 26-27, 31-33 yshift 1 @ 14-15, 18-19, 45-46
@@ -29,6 +31,19 @@ percent touch 64-65, 83 yshift 1 @ 20-21, 47-48
 #rechtsonder dikker maken (boven)
 percent touch 53-55 yshift 1 @ 48
 
+#linksboven kleiner
+perthousand touch 4-5, 23-25, 43 yshift 1 @ 18
+#linksboven groter
+perthousand touch 4-5, 23-25, 43 yshift -1 @ 28-29, 31, 33-34, 37-40, 43-46, 49, 52-53
+#linksboven dikker (boven)
+perthousand touch 33-35 yshift -1 @ 20-21
+#linksboven dikker maken (onder)
+perthousand touch 4-5, 23 yshift -1 @ 47-48
+#rechtsonder dikker maken (onder)
+perthousand touch 64-65, 83, 104-105, 123 yshift 1 @ 20-21, 47-48
+#rechtsonder dikker maken (boven)
+perthousand touch 53-55, 93-95 yshift 1 @ 48
+
 #midden van a dikker
 a touch 57-59 yshift -1 @ 20-21, 33-34, 37-38, 40
 a touch 16-18 yshift 1 @ 35-36
@@ -42,7 +57,7 @@ e touch 23-24 yshift -1 @ 33-34, 37-38
 e touch 23-24, 35, 45 yshift -1 @ 50-53
 
 #bovenkant f lager
-f touch 8-18 yshift -1 @ 12-13, 20-21, 24-25, 29, 35-36, 39-40, 47-48, 50
+f touch 8-10, 16-18 yshift -1 @ 12-13, 20-21, 24-25, 29, 35-36, 39-40, 47-48, 50-51
 #28 en 43-44 nieuw
 
 i touch 4-5, 13-15, 23 yshift 1 @ 32, 41-42
@@ -74,7 +89,7 @@ s touch 45-47 yshift 0.75 @ 33
 s touch 14-16 yshift 0.5 @ 16-19, 30-32, 44-46
 
 #bovenkant van t
-t touch 9-10 yshift 0.5 @ 13
+t touch 7-8 yshift 0.5 @ 13
 
 #S dikker
 S touch 36-41 yshift 0.125 @ 25-26
@@ -115,4 +130,46 @@ h touch 0-1 yshift 1 @ 22-23, 26-27
 k touch 0-1 yshift 1 @ 22-23, 26-27
 l touch 0-1 yshift 1 @ 22-23, 26-27
 
+ordfeminine touch 53-55 yshift -1 @ 20-25, 34-44, 47-48
+ordfeminine touch 61-63 yshift -1 @ 47-48
+ordfeminine touch 4-6, 47-59 yshift 1 @ 33, 49
+ordmasculine touch 20-21, 39 yshift 1 @ 20-23, 34-36, 41-42
+ordmasculine touch 0-1, 19 yshift 1 @ 20-23, 35-36, 41-42
+ordmasculine touch 0-1, 19-21, 39 yshift -1 @ 18-19, 30-32
+
+yen touch 14, 17-21 yshift -1 @ 10-11
+
+onesuperior touch 0, 10 yshift -1 @ 10-11, 24-31, 39-48
+
+#bovenkant dunner
+twosuperior touch 9-11 yshift 1 @ 22-25
+twosuperior touch 9-11 yshift 0.5 @ 26-27, 39-42
+
+
+#alleen onderkant omhoog
+threesuperior touch 13-16 yshift 1 @ 12-13, 22-23
+#onderkant en binnenkant bovenkant omhoog
+threesuperior touch 13-16, 35-37 yshift 1 @ 20, 35-38
+#alleen bovenkant dunner
+threesuperior touch 35-37 yshift 1 @ 21
+threesuperior touch 35-37 yshift 0.5 @ 52-53
+#alleen onderkant dikker
+threesuperior touch 15-16 yshift 1 @ 39-40
+
+quotedbl touch 0, 5-10, 17-19, 28-29, 34-39, 46-48, 57 yshift -1 @ 12-13, 16-17, 20-21, 24-25, 28-29, 32, 35-36, 39-40, 43-44, 47-48, 51
+quotesingle touch 0, 5-10, 17-19, 28 yshift -1 @ 12-13, 16-17, 20-21, 24-25, 28-29, 32, 35-36, 39-40, 43-44, 47-48, 51
+quoteright touch 0, 5-10, 17-19, 28 yshift -1 @ 12-13, 16-17, 20-21, 24-25, 28-29, 32, 35-36, 39-40, 43-44, 47-48, 51
+quotedblright touch 0, 5-10, 17-19, 28-29, 34-39, 46-48, 57 yshift -1 @ 12-13, 16-17, 20-21, 24-25, 28-29, 32, 35-36, 39-40, 43-44, 47-48, 51
+
+copyright touch 6-8, 38-40 yshift 1 @ 10-13, 23-27
+registered touch 6-8, 38-40 yshift 1 @ 10-13, 23-27
+
+copyright touch 6-8 yshift -1 @ 33
+registered touch 6-8 yshift -1 @ 33
+
+copyright touch 28-30 yshift -1 @ 34
+registered touch 28-30 yshift -1 @ 34
+
+copyright touch 76-72 yshift -1 @ 34, 47-49
+registered touch 62, 70 yshift -1 @ 49
 
