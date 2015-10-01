@@ -17,7 +17,7 @@ To generate webfonts yourself simply:
 
 1. Generate a ttf from the vfb file in Fontlab
 
-2. Download and install the latest version of ttfautohint (http://www.freetype.org/ttfautohint/#download)
+2. Download and install the latest version of ttfautohint. http://www.freetype.org/ttfautohint/#download
 
 3. Use the Control Instructions File in ttfautohint to generate the hinted ttf
 
