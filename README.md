@@ -3,6 +3,8 @@ Proza Libre is the cousin of the commercially released Proza typefamily by Burea
 
 It's made to render exceptionally well on screens across different operating systems. Feel free to play around with it, but be aware that it is still in beta.
 
+A short screencast about the process behind Proza Libre, using ttfautohint: https://vimeo.com/140530738
+
 Proza Libre was made with:
 
 ttfautohint
@@ -10,3 +12,9 @@ ttfautohint
 browserstack.com/screenshots
 
 Fontlab Studio V
+
+To generate webfonts yourself simply:
+1. Generate a ttf from the vfb file in Fontlab
+2. Download and install the latest version of ttfautohint (http://www.freetype.org/ttfautohint/#download)
+3. Use the Control Instructions File in ttfautohint to generate the hinted ttf
+4. Use any webfont generator to convert the ttf to webfonts.
