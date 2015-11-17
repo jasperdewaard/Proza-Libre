@@ -1,0 +1,28 @@
+
+#midden van a
+a touch 49-51 yshift -1 @ 22
+a touch 14-16 yshift -0.5 @ 10-11
+#onderkant a
+a touch 59-61 yshift -0.5 @ 10-11
+
+b touch 35-37 yshift 0.5 @ 10-11, 29
+
+c touch 36-38 yshift -0.5 @ 10-11, 29
+
+#midden e
+e touch 23-24 yshift -1 @ 22
+#onderkant e
+e touch 28-30 yshift -0.5 @ 10-11, 29
+
+g touch 51-53, 86-88 yshift -1 @ 29
+
+h touch 19-21 yshift 0.5 @ 10-11, 29
+
+m touch 27-29, 39-41 yshift 0.5 @ 10-11
+
+n touch 19-21 yshift 0.5 @ 10-11
+
+q touch 34-36 yshift -0.5 @ 29
+
+t touch 17-19 yshift -0.5 @ 10-11, 29
+
