@@ -38,9 +38,6 @@ e touch 28-30 yshift -0.5 @ 10-11, 18-21, 28-30, 35-36
 e touch 28-30 yshift -0.125 @ 43-44, 49-51
 e touch 28-30 yshift -0.25 @ 43-44, 52-53
 
-f touch 8-10, 12-14, 16-18 yshift -1 @ 41-46, 49-53
-f touch 8-10, 12-14, 16-18 yshift -0.5 @ 39-40
-
 #eye of g bigger
 g touch 36-38, 71-73 yshift -1 @ 18-21, 28-30
 g touch 7-9 yshift -0.5 @ 18-19, 28-30
@@ -285,8 +282,6 @@ plus touch 4-5 yshift 0.5 @ 12-13, 33
 plus touch 4-5 yshift -0.5 @ 18-19, 37-40, 47-48
 plus touch 4-5 yshift -1 @ 43-44
 
-germandbls touch 50-52, 63-65 yshift -1 @ 39-53
-
 #onderkant
 ae touch 13-15, 66-68 yshift -0.5 @ 10-11, 18-21, 28-30, 35-36
 ae touch 13-15, 66-68 yshift -0.125 @ 24, 43-44, 49-51
@@ -374,6 +369,27 @@ oe touch 64, 72 yshift 0.25 @ 21
 
 Uogonek touch 5-7 yshift -0.75 @ 21
 Uogonek touch 5-7 yshift 0.5 @ 10-12, 22
+
+f touch 8-10, 12-14, 16-18 yshift -1 @ 43-44, 50-51
+f touch 8-10, 12-14, 16-18 yshift -0.5 @ 39-40, 47-48
+
+f_l touch 8-10, 12-14, 16-18 yshift -0.5 @ 39-40, 43-44, 47-48
+f_l touch 8-10, 12-14, 16-18 yshift -1 @ 50-51
+
+f_i touch 8-10, 12-14, 18-20 yshift -0.5 @ 39-40, 43-44, 47-48
+f_i touch 8-10, 12-14, 18-20 yshift -1 @ 50-51
+
+germandbls touch 50-52, 63-65 yshift -1 @ 39-44, 47-48, 50-51
+germandbls touch 50-52, 63-65 yshift -0.5 @ 49
+
+#stems height
+b touch 0-1 yshift 1 @ 41-42, 45-46, 49, 52-53
+d touch 17-18 yshift 1 @ 41-42, 45-46, 49, 52-53
+h touch 0-1 yshift 1 @ 41-42, 45-46, 49, 52-53
+k touch 0-1 yshift 1 @ 41-42, 45-46, 49, 52-53
+l touch 0-1 yshift 1 @ 41-42, 45-46, 49, 52-53
+lslash touch 1-2 yshift 1 @ 41-42, 45-46, 49, 52-53
+f_l touch 27-28 yshift 1 @ 41-42, 45-46, 49, 52-53
 
 
 
