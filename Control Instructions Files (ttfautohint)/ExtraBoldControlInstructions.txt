@@ -390,6 +390,8 @@ k touch 0-1 yshift 1 @ 41-42, 45-46, 49, 52-53
 l touch 0-1 yshift 1 @ 41-42, 45-46, 49, 52-53
 lslash touch 1-2 yshift 1 @ 41-42, 45-46, 49, 52-53
 f_l touch 27-28 yshift 1 @ 41-42, 45-46, 49, 52-53
+thorn touch 0-1 yshift 1 @ 41-42, 45-46, 49, 52-53
+dcroat touch 2-3 yshift 1 @ 41-42, 45-46, 49, 52-53
 
 
 
