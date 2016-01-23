@@ -33,8 +33,9 @@ perthousand touch 53-55, 73-75, 93-95, 113-115 yshift -1 @ 39-40
 #onderkant van midden
 a touch 16-18 yshift 0.25 @ 43-44
 
-#stam van b korter
-b touch 0-1 yshift -0.5 @ 32, 35-36, 39-40, 43-44, 47-48, 50-51
+#stam van b
+b touch 0-1 yshift -0.5 @ 32, 35-36, 39-40, 43-44, 47-48, 50
+b touch 0-1 yshift 0.5 @ 52-53
 
 e touch 23-24, 35, 45 yshift -1 @ 27, 50-51
 #bovenkant van midden
