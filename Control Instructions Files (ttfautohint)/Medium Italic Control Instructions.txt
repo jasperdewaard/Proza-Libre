@@ -1,0 +1,296 @@
+
+
+a touch 12-14 yshift -0.25 @ 16-17
+a touch 12-14 yshift -0.125 @ 28-29
+a touch 12-14 yshift 0.5 @ 30-31, 41-42
+a touch 12-14 yshift 0.25 @ 43-44
+
+b touch 12-14 yshift 0.25 @ 16-17, 37-38, 52-53
+b touch 12-14 yshift 0.125 @ 26-27
+b touch 12-14 yshift 0.5 @ 28-29, 39-40
+
+c touch 32-34 yshift -0.25 @ 16-17, 50
+c touch 32-34 yshift -0.125 @ 28-29
+c touch 32-34 yshift 0.25 @ 30-31
+
+d touch 39-41 yshift -0.25 @ 16-17
+d touch 39-41 yshift -0.125 @ 28-29
+d touch 39-41 yshift 0.5 @ 30-31, 41-42
+d touch 39-41 yshift 0.25 @ 43-44
+
+#bovenkant midden
+e touch 42-44 yshift -0.5 @ 18-19, 22-23
+#onderkant midden
+e touch 21-23 yshift -0.5 @ 24-25
+#onderkant
+e touch 27-29 yshift -0.25 @ 16-17, 47-49
+e touch 27-29 yshift -0.125 @ 26-29
+e touch 27-29 yshift -0.5 @ 37-40, 52-53
+e touch 27-29 yshift -0.75 @ 50
+
+g touch 12-14 yshift -0.25 @ 16-17, 37-38, 49-50
+g touch 12-14 yshift -0.125 @ 26-27
+g touch 12-14 yshift -0.5 @ 28-29, 39-40
+
+h touch 17-19 yshift 0.25 @ 16-17, 26-27, 37-38, 52-53
+h touch 17-19 yshift 0.5 @ 28-29, 39-40, 49
+
+j touch 14-15, 21-23, 31 yshift 1 @ 50-51
+j touch 14-15, 21-23, 31 yshift -1 @ 10-11, 45-46, 49
+
+i touch 4-5, 11-13, 21 yshift -1 @ 10-11
+
+m touch 29-31, 43-45 yshift 0.125 @ 16-17, 28-29
+m touch 29-31, 43-45 yshift -0.5 @ 30-31, 41-42
+m touch 29-31, 43-45 yshift -0.25 @ 43-44
+
+n touch 19-21 yshift 0.125 @ 16-17, 28-29
+n touch 19-21 yshift -0.25 @ 30-31, 43-44
+n touch 19-21 yshift -0.5 @ 41-42
+
+p touch 37-39 yshift 0.25 @ 16-17
+p touch 37-39 yshift 0.125 @ 28-29
+p touch 37-39 yshift -0.75 @ 30-31, 41-42
+p touch 37-39 yshift -0.5 @ 43-44
+
+q touch 12-14 yshift -0.25 @ 16-17, 37-38, 49-50, 52-53
+q touch 12-14 yshift -0.125 @ 26-27
+q touch 12-14 yshift -0.5 @ 28-29, 39-40
+
+r touch 13, 15-17 yshift 0.5 @ 37-38
+
+t touch 17-19 yshift -0.125 @ 16-17, 28-29, 50
+
+u touch 19-21 yshift -0.125 @ 16-17, 28-29
+u touch 19-21 yshift 0.5 @ 30-31, 41-42
+
+exclam touch 0, 3 yshift 0.5 @ 16-17
+exclam touch 0, 3 yshift 1 @ 28-29, 33-34, 39-40, 47-49
+exclam touch 0, 3 yshift -1 @ 51
+
+question touch 25-27 yshift 0.25 @ 25-26
+question touch 25-27 yshift -0.5 @ 32, 43-46
+question touch 25-27 yshift 0.5 @ 50
+
+dollar touch 26-27, 31-33 yshift -1 @ 12-13, 43-44
+dollar touch 26-27, 31-33 yshift -0.25 @ 16-17, 26-29, 39-40
+dollar touch 26-27, 31-33 yshift 1 @ 45-46
+dollar touch 26-27, 31-33 yshift 0.75 @ 14-15
+dollar touch 26-27, 31-33 yshift 0.5 @ 18-19, 30-31, 41-42, 50-53
+
+percent touch 4-5, 23-25, 43 yshift -1 @ 16-17, 27-29, 32-33, 37-40, 43-44, 48-49
+percent touch 4-5, 23-25, 43 yshift 0.5 @ 18-19
+percent touch 4-5, 23-25, 43 yshift -0.5 @ 41-42
+
+perthousand touch 4-5, 23-25, 43 yshift -1 @ 16-17, 27-29, 32-33, 37-40, 43-44, 48-49
+perthousand touch 4-5, 23-25, 43 yshift 0.5 @ 18-19
+perthousand touch 4-5, 23-25, 43 yshift -0.5 @ 41-42
+
+two touch 9-11 yshift -0.25 @ 51
+two touch 9-11 yshift 0.25 @ 14-17, 26-27, 37-38, 52-53
+two touch 9-11 yshift 0.5 @ 28-29, 39-40, 50-51
+three touch 43-45 yshift -0.25 @ 51
+three touch 43-45 yshift 0.25 @ 14-17, 26-27, 37-38, 52-53
+three touch 43-45 yshift 0.5 @ 28-29, 39-40, 50-51
+
+#midden van plus
+plus touch 0, 3-6, 9-11 yshift 1 @ 22-23
+#bovenkant van plus
+plus touch 1-2 yshift 1 @ 22-23
+#onderkant van plus
+plus touch 7-8 yshift -1 @ 12-13, 16-17
+
+#bovenkant bovenkant
+Euro touch 1-2, 24-25 yshift -0.5 @ 19
+Euro touch 1-2, 24-25 yshift -0.25 @ 39-40
+Euro touch 1-2, 24-25 yshift -0.75 @ 41-44
+Euro touch 1-2, 24-25 yshift -1 @ 45-53
+#onderkant bovenkant
+Euro touch 0, 26 yshift 0.25 @ 16-17, 28-29
+Euro touch 0, 26 yshift 0.5 @ 18
+Euro touch 0, 26 yshift 0.75 @ 30-31
+Euro touch 0, 26 yshift 1 @ 20-21
+#bovenkant onderkant
+Euro touch 27, 50 yshift -0.75 @ 41-42
+#onderkant onderkant
+Euro touch 28-29, 48-49 yshift 0.25 @ 16-17, 28-29, 39-40
+Euro touch 28-29, 48-49 yshift 0.5 @ 18-19
+Euro touch 28-29, 48-49 yshift 0.75 @ 30-31, 43-44
+Euro touch 28-29, 48-49 yshift 1 @ 20-21, 45-53
+
+#bovenkant bovenkant
+yen touch 0-1, 4-5 yshift 0.75 @ 32
+yen touch 0-1, 4-5 yshift -0.25 @ 39-40
+yen touch 0-1, 4-5 yshift -0.5 @ 41-42
+yen touch 0-1, 4-5 yshift -1 @ 45-53
+#onderkant bovenkant
+yen touch 2-3 yshift 0.25 @ 18-19, 22-23, 30
+yen touch 2-3 yshift 0.5 @ 20-21, 43-44
+yen touch 2-3 yshift -0.5 @ 33-34
+#bovenkant onderkant
+yen touch 22-23 yshift -1 @ 10-11
+yen touch 22-23 yshift -0.5 @ 18-19, 30-31, 43-44
+yen touch 22-23 yshift -0.25 @ 39-40
+#onderkant onderkant
+yen touch 17, 20-21, 24 yshift -1 @ 10-11
+yen touch 17, 20-21, 24 yshift 0.25 @ 16-17, 28-29
+yen touch 17, 20-21, 24 yshift 1 @ 20-21, 45-53
+yen touch 17, 20-21, 24 yshift 0.5 @ 41-42
+
+#bovenkant bovenkant
+uni20BD touch 0-1, 15-17 yshift -0.25 @ 28-29, 39-40
+uni20BD touch 0-1, 15-17 yshift -0.5 @ 43-44
+uni20BD touch 0-1, 15-17 yshift -1 @ 45-53
+#onderkant bovenkant
+uni20BD touch 12-14 yshift 0.25 @ 16-17
+uni20BD touch 12-14 yshift 0.5 @ 18-19, 30-31, 41-42
+uni20BD touch 12-14 yshift 1 @ 20-21
+#bovenkant onderkant
+uni20BD touch 26-27 yshift -0.5 @ 30-31, 43-44
+uni20BD touch 26-27 yshift -0.25 @ 39-40
+#onderkant onderkant
+uni20BD touch 28-29, 32-33 yshift 0.25 @ 16-17, 28-29
+uni20BD touch 28-29, 32-33 yshift 0.5 @ 18-19, 41-44
+uni20BD touch 28-29, 32-33 yshift 1 @ 20-21, 45-53
+
+#bovenkant cirkel
+copyright touch 6-8, 40-42 yshift -1 @ 22-23, 33-34
+#onderkant cirkel
+copyright touch 18-20, 28-30 yshift 1 @ 12-13, 28-29
+copyright touch 18-20, 28-30 yshift -1 @ 19
+copyright touch 18-20, 28-30 yshift 0.5 @ 30-31
+#bovenkant van C
+copyright touch 58-60, 62-64, 66-68 yshift 1 @ 26
+
+#bovenkant cirkel
+registered touch 6-8, 40-42 yshift -1 @ 22-23, 33-34
+#onderkant cirkel
+registered touch 18-20, 28-30 yshift 1 @ 12-13, 28-29
+registered touch 18-20, 28-30 yshift -1 @ 19
+registered touch 18-20, 28-30 yshift 0.5 @ 30-31
+#onderkant R
+registered touch 46, 59-60, 63 yshift 0.5 @ 12-13, 28-29, 45-46
+registered touch 46, 59-60, 63 yshift -0.5 @ 22-23, 37-38, 53
+registered touch 46, 59-60, 63 yshift -1 @ 34
+
+onequarter touch 0-1, 10-11 yshift -1 @ 12-13, 22-23, 28-29, 43-44
+onequarter touch 0-1, 10-11 yshift 1 @ 24-27, 41-42, 50-51
+
+onehalf touch 0-1, 10-11 yshift 1 @ 18-19, 24-25, 45-46
+
+threequarters touch 0-1 yshift -1 @ 12-13, 22-23, 28-29, 34, 37-40, 43-44, 49
+
+#bovenkant bovenkant
+notequal touch 8, 11-12, 15 yshift -0.5 @ 14-15, 25-26
+notequal touch 8, 11-12, 15 yshift -0.25 @ 16-17, 37-38, 49-50
+notequal touch 8, 11-12, 15 yshift 0.5 @ 24
+notequal touch 8, 11-12, 15 yshift 0.25 @ 36, 47-48, 51-53
+notequal touch 8, 11-12, 15 yshift 0.75 @ 35
+#onderkant bovenkant
+notequal touch 13-14 yshift 0.25 @ 12-13
+notequal touch 13-14 yshift -0.5 @ 14-15, 18-21, 25-26, 37-38, 41-42, 49-50
+#bovenkant onderkant
+notequal touch 0, 7 yshift 0.5 @ 10-11, 18-21, 24-25, 37-38
+notequal touch 0, 7 yshift 0.25 @ 33-34, 41-42, 47-48
+notequal touch 0, 7 yshift -0.25 @ 14-15
+#onderkant onderkant
+notequal touch 1-2, 5-6 yshift 0.25 @ 10-11, 24-25
+notequal touch 1-2, 5-6 yshift 0.5 @ 16-17, 30-31, 37-38
+notequal touch 1-2, 5-6 yshift -0.25 @ 32, 51
+notequal touch 1-2, 5-6 yshift -0.75 @ 45-46
+notequal touch 1-2, 5-6 yshift 0.75 @ 52
+
+#bovenkant midden
+ae touch 17-19, 69-71 yshift -0.5 @ 22-23
+ae touch 17-19, 69-71 yshift 0.5 @ 24-25
+#onderkant midden
+ae touch 48-50, 88-90 yshift 0.25 @ 16-17
+ae touch 48-50, 88-90 yshift 0.5 @ 18-19
+#onderkant a en e
+ae touch 54-56, 80-81, 96 yshift -0.25 @ 14-17, 37-38, 49-50
+ae touch 54-56, 80-81, 96 yshift -0.75 @ 28-29, 39-40
+ae touch 54-56, 80-81, 96 yshift 0.25 @ 30-31, 41
+
+#bovenkant midden
+oe touch 74-76 yshift -0.5 @ 18-19, 22-23
+#onderkant midden
+oe touch 27-29 yshift -0.5 @ 24-25
+#onderkant
+oe touch 33-35 yshift -0.25 @ 16-17, 47-49
+oe touch 33-35 yshift -0.125 @ 26-29
+oe touch 33-35 yshift -0.5 @ 37-40, 52-53
+oe touch 33-35 yshift -0.75 @ 50
+
+ccedilla touch 46-48 yshift -0.5 @ 16-17, 28-29, 39-40
+ccedilla touch 46-48 yshift -0.25 @ 26-27, 37-38, 49-50
+ccedilla touch 46-48 yshift 0.25 @ 30-31, 41-42
+
+thorn touch 37-39 yshift 0.25 @ 16-17
+thorn touch 37-39 yshift 0.125 @ 28-29
+thorn touch 37-39 yshift -0.75 @ 30-31, 41-42
+thorn touch 37-39 yshift -0.5 @ 43-44
+
+#bovenkant streepje
+dcroat touch 0-1, 4-5 yshift -1 @ 20-53
+#onderkant streepje
+dcroat touch 6-7, 31-32 yshift 0.25 @ 16-17
+#onderkant
+dcroat touch 45-47 yshift -0.25 @ 16-17
+dcroat touch 45-47 yshift -0.125 @ 28-29
+dcroat touch 45-47 yshift 0.5 @ 30-31, 41-42
+dcroat touch 45-47 yshift 0.25 @ 43-44
+
+#bovenkant midden
+eogonek touch 67-69 yshift -0.5 @ 18-19, 22-23
+#onderkant midden
+eogonek touch 24-26 yshift -0.5 @ 24-25
+#onderkant
+eogonek touch 30-32 yshift -0.25 @ 16-17, 26-29, 47-48
+eogonek touch 30-32 yshift -0.5 @ 37-38, 49, 52
+eogonek touch 30-32 yshift -0.75 @ 39-40, 50
+
+#togonek
+uni0163 touch 15-17 yshift -0.25 @ 16-17, 26-27, 30-31, 35-38, 49-50
+uni0163 touch 15-17 yshift -0.5 @ 28-29, 39-40
+
+aogonek touch 62-64 yshift -0.25 @ 16-17
+aogonek touch 62-64 yshift -0.125 @ 28-29
+aogonek touch 62-64 yshift 0.5 @ 30-31, 41-42
+aogonek touch 62-64 yshift 0.25 @ 43-44
+
+uogonek touch 48-50 yshift -0.125 @ 16-17, 28-29
+uogonek touch 48-50 yshift 0.5 @ 30-31, 41-42
+
+Ccedilla touch 52-54 yshift -0.25 @ 16-17, 26-27, 52-53
+Ccedilla touch 52-54 yshift -0.5 @ 28-29, 39-40, 50
+
+f touch 15-17, 19-21, 23-25 yshift -1 @ 24-25, 28-29, 32, 35-36, 39-40, 43-44, 47-48, 50-51
+
+#de f in fl
+f_l touch 19-21, 23-25, 27-29 yshift 1 @ 22
+f_l touch 19-21, 23-25, 27-29 yshift -1 @ 28-29, 32, 35-36, 39-40, 43-44, 47-48, 50-51
+#de l in fl
+f_l touch 0-1 yshift 1 @ 22
+
+f_i touch 15-17, 21-23, 27-29 yshift -1 @ 24-25, 28-29, 32, 35-36, 39-40, 43-44, 47-48, 50-51
+
+germandbls touch 18-20, 31-33 yshift -1 @ 28-29, 35-36, 39-40, 43-44, 46-48, 50
+germandbls touch 18-20, 31-33 yshift -0.75 @ 31-32
+germandbls touch 18-20, 31-33 yshift -0.5 @ 41-42
+
+#stam van b
+b touch 42-43 yshift -0.5 @ 35-36, 39-40, 43-44, 47-48, 50
+b touch 42-43 yshift 0.5 @ 52-53
+
+b touch 42-43 yshift 1 @ 22, 26-27, 30-31, 33-34
+d touch 21-22 yshift 1 @ 22, 26-27, 30-31, 33-34
+h touch 26-27 yshift 1 @ 22, 26-27, 30-31, 33-34
+k touch 0-1 yshift 1 @ 22, 26-27, 30-31, 33-34
+l touch 0-1 yshift 1 @ 22, 26-27, 30-31, 33-34
+lslash touch 4-5 yshift 1 @ 22, 26-27, 30-31, 33-34
+f_l touch 0-1 yshift 1 @ 26-27, 30-31, 33-34
+thorn touch 0-1 yshift 1 @ 22, 26-27, 30-31, 33-34
+dcroat touch 2-3 yshift 1 @ 22, 26-27, 30-31, 33-34
+
+
+
